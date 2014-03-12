@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.met.no/weatherapi/locationforecast/1.4/schema" created="2008-03-18T22:45:29Z">
+   <meta>
+      <model name="YR" termin="2008-03-18T12:00:00Z" runended="2008-03-18T15:07:50Z" nextrun="2008-03-19T03:30:00Z" from="2008-03-18T23:00:00Z" to="2008-03-21T05:00:00Z"/>
+      <model name="EC.GEO.0.25" termin="2008-03-18T12:00:00Z" runended="2008-03-18T19:07:23Z" nextrun="2008-03-19T08:00:00Z" from="2008-03-21T06:00:00Z" to="2008-03-28T06:00:00Z"/>
+   </meta>
+   <product class="pointData">
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-18T23:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <windDirection id="dd" deg="338.7" name="N"/>
+            <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+            <temperature id="TTT" unit="celcius" value="-1.0"/>
+            <pressure id="pr" unit="hPa" value="1007.8"/>
+            <cloudiness id="NN" percent="1.4"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.4"/>
+            <mediumClouds id="MEDIUM" percent="0.8"/>
+            <highClouds id="HIGH" percent="0.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-19T00:00:00Z" to="2008-03-19T00:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <windDirection id="dd" deg="327.5" name="NW"/>
+            <windSpeed id="ff" mps="2.8" beaufort="2" name="Svak vind"/>
+            <temperature id="TTT" unit="celcius" value="-2.2"/>
+            <pressure id="pr" unit="hPa" value="1008.1"/>
+            <cloudiness id="NN" percent="0.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="0.0"/>
+            <mediumClouds id="MEDIUM" percent="0.0"/>
+            <highClouds id="HIGH" percent="0.0"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-28T06:00:00Z" to="2008-03-28T06:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <windDirection id="dd" deg="40.0" name="NE"/>
+            <windSpeed id="ff" mps="5.7" beaufort="4" name="Laber bris"/>
+            <temperature id="TTT" unit="celcius" value="1.5"/>
+            <pressure id="pr" unit="hPa" value="1006.6"/>
+            <cloudiness id="NN" percent="100.0"/>
+            <fog id="FOG" percent="0.0"/>
+            <lowClouds id="LOW" percent="91.0"/>
+            <mediumClouds id="MEDIUM" percent="100.0"/>
+            <highClouds id="HIGH" percent="100.0"/>
+         </location>
+      </time>
+
+       <!-- Precip -->
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-19T00:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <precipitation unit="mm" value="0.0"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-19T00:00:00Z" to="2008-03-19T01:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <precipitation unit="mm" value="0.0"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-28T06:00:00Z" to="2008-03-28T12:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <precipitation unit="mm" value="6.7"/>
+         </location>
+      </time>
+
+       <!-- Symbols: timespan 1 -->
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-19T00:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SUN" number="1"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-21T05:00:00Z" to="2008-03-21T06:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SNOW" number="13"/>
+         </location>
+      </time>
+
+       <!-- Symbols: timespan 2 -->
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-19T01:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SUN" number="1"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-21T04:00:00Z" to="2008-03-21T06:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SNOW" number="13"/>
+         </location>
+      </time>
+
+       <!-- Symbols: timespan 3 -->
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-19T02:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SUN" number="1"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-21T09:00:00Z" to="2008-03-21T12:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="CLOUD" number="4"/>
+         </location>
+      </time>
+
+       <!-- Symbols: timespan 6 -->
+      <time datatype="forecast" from="2008-03-18T23:00:00Z" to="2008-03-19T05:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SUN" number="1"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-19T12:00:00Z" to="2008-03-19T18:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="LIGHTRAINSUN" number="5"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-19T14:00:00Z" to="2008-03-19T20:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SLEETSUN" number="7"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-19T15:00:00Z" to="2008-03-19T21:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SNOWSUN" number="8"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-19T21:00:00Z" to="2008-03-20T03:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="LIGHTCLOUD" number="2"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-19T22:00:00Z" to="2008-03-20T04:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="PARTLYCLOUD" number="3"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-24T12:00:00Z" to="2008-03-24T18:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SUN" number="1"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-26T06:00:00Z" to="2008-03-26T12:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="RAIN" number="10"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-26T12:00:00Z" to="2008-03-26T18:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="LIGHTRAIN" number="9"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-26T18:00:00Z" to="2008-03-27T00:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="CLOUD" number="4"/>
+         </location>
+      </time>
+      <time datatype="forecast" from="2008-03-27T00:00:00Z" to="2008-03-27T06:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SNOW" number="13"/>
+         </location>
+      </time>
+      <!-- [...] -->
+      <time datatype="forecast" from="2008-03-28T00:00:00Z" to="2008-03-28T06:00:00Z">
+         <location  altitude="40" latitude="59.6327" longitude="10.2468">
+            <symbol id="SLEET" number="12"/>
+         </location>
+      </time>
+   </product>
+</weatherdata>

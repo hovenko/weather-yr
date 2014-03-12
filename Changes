@@ -1,0 +1,39 @@
+Revision history for Perl extension Weather::YR.
+
+0.25  Fri Jan 20 18:50:58 2011
+    - Fix: CPAN issue #74112: Misuse of length on array
+
+0.24  Sun Dec 18 13:56:56 2011
+    - Fix: YR API Location Forecast updated to version 1.8.
+    - Fix: YR API Text Forecast updated to version 1.5.
+
+0.23  Thu May 13 16:45:19 2010
+    - Fix: Missing dependency declaration on Class::Accessor::Fast.
+    - Fix: Configuration overrides were leaking when
+        multiple forecast modules are used.
+
+0.22  Thu May 29 09:25:22 2008
+    - Fix: Added prerequisites to Makefile.PL
+
+0.21  Mon May 26 09:15:05 2008
+    - Fix: Wrong package names in SEE ALSO
+    - Fix: Missing SYNOPSIS of central packages
+
+0.20  Sat May 24 17:21:31 2008
+    - Rebranded from YR to Weather::YR
+
+0.11  Wed Apr 30 09:07:26 2008
+    - Added LICENSE file for GPL2
+    - Updated README file
+    - Added YR library version to web client user agent
+
+
+0.10  Wed Apr 30 03:05:12 2008
+    - support for web service locationforecast
+    - support for web service textforecast
+
+
+0.01  Mon Mar 17 23:15:56 2008
+	- original version; created by h2xs 1.23 with options
+		-X -n YR
+

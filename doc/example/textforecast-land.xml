@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+  <productdescription prodname="merged by weatherapi"/>
+  <title>Tekstvarsel for Norge;</title>
+  <time from="2008-03-17 19:00:00" to="2008-03-19 00:00:00">
+	  
+	  
+    <forecasttype name="special">
+      <location type="mountain" id="0710" name="Fjellet i Sør-Norge">
+        <header>
+Fjellet i Sør-Norge
+        </header>
+        <in>
+På grunn av snø og vind ventes lokalt stor snøskredfare i nordvestlige fjellstrøk, vesentlig nordlige Jotunheimen og fjelltraktene i Møre og Romsdal.
+        </in>
+      </location>
+    </forecasttype>
+    
+    
+    <forecasttype name="temp">
+      <subtitle>
+Temperaturutsikter
+      </subtitle>
+      <location type="region" id="0515" name="Østafjells og fjellet i Sør-Norge">
+        <header>
+Østafjells og fjellet i Sør-Norge
+        </header>
+        <in>
+Omtrent uendret temperatur.
+        </in>
+      </location>
+      <location type="region" id="0510" name="Vestlandet og Trøndelag">
+        <header>
+Vestlandet og Trøndelag
+        </header>
+        <in>
+Det vil holde seg kaldt.
+        </in>
+      </location>
+      <location type="region" id="0506" name="Nord-Norge">
+        <header>
+Nord-Norge
+        </header>
+        <in>
+Omtrent uendret temperatur.
+        </in>
+      </location>
+      <location type="district" id="3011" name="Spitsbergen">
+        <header>
+Spitsbergen
+        </header>
+        <in>
+Fortsatt forholdsvis kaldt.
+        </in>
+      </location>
+    </forecasttype>
+    
+    
+    <forecasttype name="normal">
+      <area id="0610" name="Vest-Agder" type="county">
+        <location type="subcounty" id="9184" name="Kysten av Vest-Agder">
+          <header>
+Kysten av Vest-Agder
+          </header>
+          <in>
+Nordvestlig bris, periodevis liten kuling 12. For det meste opphold og perioder med pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9190" name="Indre strøk av Vest-Agder">
+          <header>
+Indre strøk av Vest-Agder
+          </header>
+          <in>
+Nordvestlig bris, frisk bris 10 utsatte steder. Delvis skyet, stort sett opphold.
+          </in>
+        </location>
+      </area>
+      <area id="0609" name="Aust-Agder" type="county">
+        <location type="subcounty" id="9177" name="Kysten av Aust-Agder">
+          <header>
+Kysten av Aust-Agder
+          </header>
+          <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. For det meste opphold og perioder med pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9191" name="Indre strøk av Aust-Agder">
+          <header>
+Indre strøk av Aust-Agder
+          </header>
+          <in>
+Nordvestlig bris, frisk bris 10 utsatte steder. Delvis skyet, stort sett opphold.
+          </in>
+        </location>
+      </area>
+      <area id="0608" name="Telemark" type="county">
+        <location type="subcounty" id="9178" name="Kysten av Telemark">
+          <header>
+Kysten av Telemark
+          </header>
+          <in>
+Nordvestlig opp i frisk bris 10. Lange perioder med pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9194" name="Indre strøk av Telemark">
+          <header>
+Indre strøk av Telemark
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær, men mulighet for spredte snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0607" name="Vestfold" type="county">
+        <location type="subcounty" id="9179" name="Kysten av Vestfold">
+          <header>
+Kysten av Vestfold
+          </header>
+          <in>
+Nordvestlig frisk bris 10, av og til liten kuling 12 i Ytre Oslofjord. Lange perioder med pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9189" name="Indre strøk av Vestfold">
+          <header>
+Indre strøk av Vestfold
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær.
+          </in>
+        </location>
+      </area>
+      <area id="0601" name="Østfold" type="county">
+        <location type="subcounty" id="9175" name="Kysten av Østfold">
+          <header>
+Kysten av Østfold
+          </header>
+          <in>
+Nordvestlig frisk bris 10, av og til liten kuling 12 i Ytre Oslofjord. Lange perioder med pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9176" name="Indre strøk av Østfold">
+          <header>
+Indre strøk av Østfold
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær.
+          </in>
+        </location>
+      </area>
+      <area id="0602" name="Akershus" type="county">
+        <location type="county" id="0602" name="Akershus">
+          <header>
+Akershus
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær, men mulighet for spredte snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0603" name="Oslo" type="county">
+        <location type="county" id="0603" name="Oslo">
+          <header>
+Oslo
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær, men mulighet for spredte snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0606" name="Buskerud" type="county">
+        <location type="county" id="0606" name="Buskerud">
+          <header>
+Buskerud
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Lange perioder med pent vær, men mulighet for spredte snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0605" name="Oppland" type="county">
+        <location type="county" id="0605" name="Oppland">
+          <header>
+Oppland
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Perioder med pent vær, men mulighet for enkelte snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0604" name="Hedmark" type="county">
+        <location type="county" id="0604" name="Hedmark">
+          <header>
+Hedmark
+          </header>
+          <in>
+Nordvestlig bris, opp i frisk bris 10 utsatte steder. Perioder med pent vær, men mulighet for enkelte snøbyger.
+          </in>
+        </location>
+      </area>
+      <location type="mountain" id="0701" name="Rondane">
+        <header>
+Rondane
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Enkelte snøbyger, vesentlig i nordlige områder. Perioder med sol.
+        </in>
+      </location>
+      <location type="mountain" id="0702" name="Fjellstrøkene Dovrefjell - svenskegrensa">
+        <header>
+Fjellstrøkene Dovrefjell - svenskegrensa
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Enkelte snøbyger, vesentlig i vestlige områder. Perioder med sol.
+        </in>
+      </location>
+      <location type="mountain" id="0703" name="Fjellstrøkene Trollheimen - Strynefjellet">
+        <header>
+Fjellstrøkene Trollheimen - Strynefjellet
+        </header>
+        <in>
+Nordvestlig bris, periodevis stiv kuling 15 utsatte steder. Enkelte snøbyger. Perioder med sol, vesentlig i sørøstlige områder.
+        </in>
+      </location>
+      <location type="mountain" id="0705" name="Jotunheimen">
+        <header>
+Jotunheimen
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Enkelte snøbyger, vesentlig i nordlige områder. Perioder med sol.
+        </in>
+      </location>
+      <location type="mountain" id="0706" name="Langfjella nord for Finse">
+        <header>
+Langfjella nord for Finse
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Spredte snøbyger, vesentlig i vestlige områder. Perioder med sol.
+        </in>
+      </location>
+      <location type="mountain" id="0707" name="Langfjella mellom Finse og Haukeli">
+        <header>
+Langfjella mellom Finse og Haukeli
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Spredte snøbyger, vesentlig i vestlige områder. Perioder med sol.
+        </in>
+      </location>
+      <location type="mountain" id="0708" name="Langfjella sør for Haukeli">
+        <header>
+Langfjella sør for Haukeli
+        </header>
+        <in>
+Nordvestlig bris, periodevis liten kuling 12 utsatte steder. Stort sett oppholdsvær, perioder med sol.
+        </in>
+      </location>
+      <area id="0611" name="Rogaland" type="county">
+        <location type="county" id="0611" name="Rogaland">
+          <header>
+Rogaland
+          </header>
+          <in>
+Nord og nordvest liten og til dels stiv kuling 15 m/s på kysten og i fjellet, tirsdag minking til liten kuling 12. Skiftende skydekke. Enkelte snøbyger, sluddbyger på kysten. Tirsdag for en stor del pent vær.
+          </in>
+        </location>
+      </area>
+      <area id="0612" name="Hordaland" type="county">
+        <location type="county" id="0612" name="Hordaland">
+          <header>
+Hordaland
+          </header>
+          <in>
+Nord og nordvest liten og til dels stiv kuling 15 m/s på kysten og i fjellet, til dels sterk kuling 20 på kysten, tirsdag minking til liten kuling 12. Skiftende skydekke. Enkelte snøbyger, sluddbyger på kysten. Tirsdag spredte snøbyger på kysten, ellers for en stor del pent vær.
+          </in>
+        </location>
+      </area>
+      <area id="0614" name="Sogn og Fjordane" type="county">
+        <location type="county" id="0614" name="Sogn og Fjordane">
+          <header>
+Sogn og Fjordane
+          </header>
+          <in>
+Nord og nordvest liten og til dels stiv kuling 15 m/s på kysten og i fjellet, til dels sterk kuling 20 på kysten, tirsdag minking til liten kuling 12. For det meste skyet. Snøbyger. Mest nedbør på kysten og i nordlige strøk. I kveld kan hende med torden. Tirsdag perioder med pent vær i sør.
+          </in>
+        </location>
+      </area>
+      <area id="0615" name="Møre og Romsdal" type="county">
+        <location type="county" id="0615" name="Møre og Romsdal">
+          <header>
+Møre og Romsdal
+          </header>
+          <in>
+Nordlig stiv og til dels sterk kuling 20 m/s på kysten og i fjellet, tirsdag minking til liten kuling 12. Skyet vær med snøbyger. I kveld og i natt lokalt utrygt for torden.
+          </in>
+        </location>
+      </area>
+      <area id="0616" name="Sør-Trøndelag" type="county">
+        <location type="county" id="0616" name="Sør-Trøndelag">
+          <header>
+Sør-Trøndelag
+          </header>
+          <in>
+Liten kuling 12 m/s av skiftende retning utsatte steder, fra i natt nord eller nordvest liten kuling 12, periodevis stiv kuling 15. Snøbyger. I kveld og i natt kan hende med torden. Tirsdag perioder med sol i indre strøk.
+          </in>
+        </location>
+      </area>
+      <area id="0617" name="Nord-Trøndelag" type="county">
+        <location type="county" id="0617" name="Nord-Trøndelag">
+          <header>
+Nord-Trøndelag
+          </header>
+          <in>
+Nordaust frisk bris 10 m/s utsatte steder, tirsdag nordlig frisk bris 10, periodevis liten kuling 12. Skiftende skydekke, noen snøbyger, mest nedbør i ytre strøk. Tirsdag lange lange perioder med sol i indre strøk.
+          </in>
+        </location>
+      </area>
+      <area id="0618" name="Nordland" type="county">
+        <location type="merged_subcounty" id="9001_9002_9003" name="Helgeland, Saltfjellet og Salten">
+          <header>
+Helgeland, Saltfjellet og Salten
+          </header>
+          <in>
+Skiftende bris, av og til nordaustlig frisk bris 10. Perioder med snøbyger, ellers til dels pent vær. Tirsdag formiddag kan hende periodevis opp i liten kuling 12 utsatte steder.
+          </in>
+        </location>
+        <location type="subcounty" id="9004" name="Lofoten">
+          <header>
+Lofoten
+          </header>
+          <in>
+Nordaustlig bris. Fra natt til tirsdag økende til liten kuling 12. Fra tirsdag formiddag nordaustlig bris. Skyet og perioder med snøbyger. 
+          </in>
+        </location>
+        <location type="subcounty" id="9005" name="Ofoten">
+          <header>
+Ofoten
+          </header>
+          <in>
+Skiftende bris, av og til nordaustlig frisk bris 10 utsatte steder. Perioder med snøbyger, ellers til dels pent vær.
+          </in>
+        </location>
+        <location type="subcounty" id="9006" name="Vesterålen">
+          <header>
+Vesterålen
+          </header>
+          <in>
+Nordaustlig bris, periodevis opp i liten kuling 12. Skyet og perioder med snøbyger.
+          </in>
+        </location>
+      </area>
+      <area id="0619" name="Troms" type="county">
+        <location type="county" id="0619" name="Troms">
+          <header>
+Troms
+          </header>
+          <in>
+Austlig bris, frisk bris 10 utsatte steder. Litt snø i grensestrøkene, ellers delvis skyet, for det meste oppholdsvær. Tirsdag skiftende bris, på kysten vest for Lyngsalpan nordlig liten kuling 12 av og til. Snøbyger, men også gløtt av sol. 
+          </in>
+        </location>
+      </area>
+      <area id="0620" name="Finnmark" type="county">
+        <location type="subcounty" id="9010" name="Kyst- og fjordstrøkene i Vest-Finnmark">
+          <header>
+Kyst- og fjordstrøkene i Vest-Finnmark
+          </header>
+          <in>
+Skiftende bris, på kysten til dels austlig frisk bris 10. Enkelte snøbyger i kyststrøkene nord for Hammerfest, ellers delvis skyet og for det meste oppholdsvær. Tirsdag sørlig bris, frisk bris 10 utsatte steder. Skiftende skydekke. Litt snø av og til. I vestlige områder økende til vestlig liten kuling 12, skyet og snøbyger tirsdag kveld.
+          </in>
+        </location>
+        <location type="subcounty" id="9011" name="Finnmarksvidda">
+          <header>
+Finnmarksvidda
+          </header>
+          <in>
+Skiftende bris. Skyet eller delvis skyet. Litt snø, først i sør.
+          </in>
+        </location>
+        <location type="subcounty" id="9009" name="Kyst- og fjordstrøkene i Øst-Finnmark">
+          <header>
+Kyst- og fjordstrøkene i Øst-Finnmark
+          </header>
+          <in>
+Skiftende bris, på kysten perioder med nordlig frisk bris 10. Enkelte snøbyger i kyststrøkene, ellers til dels pent vær. Tirsdag sørlig bris, frisk bris 10 utsatte steder. Skiftende skydekke. Litt snø av og til.
+          </in>
+        </location>
+      </area>
+      <location type="district" id="3011" name="Spitsbergen">
+        <header>
+Spitsbergen
+        </header>
+        <in>
+Austlig bris, frisk bris 10 m/s utsatte steder, tirsdag langsomt dreiende nordlig. For det meste pent vær.
+        </in>
+      </location>
+    </forecasttype>
+  </time>
+  
+  
+  
+  
+  
+  <time from="2008-03-19 00:00:00" to="2008-03-25 00:00:00">
+    <forecasttype name="normal">
+      <location type="county" id="0604" name="Hedmark">
+        <header>
+Hedmark
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling utsatte steder. Stort sett pent vær, men snøbyger i nordlige fjellstrøk. Torsdag omslag til sørlig bris, etter hvert kuling utsatte steder. Snø som brer seg østover. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring øst, kuling utsatte steder først i perioden. Fredag litt snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0605" name="Oppland">
+        <header>
+Oppland
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling utsatte steder. Stort sett pent vær, men snøbyger i nordlige fjellstrøk. Torsdag omslag til sørlig bris, etter hvert kuling utsatte steder. Snø som brer seg østover. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring øst, kuling utsatte steder først i perioden. Fredag litt snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0602" name="Akershus">
+        <header>
+Akershus
+        </header>
+        <in>
+Onsdag nordlig bris. Stort sett pent vær. Torsdag omslag til sørlig bris. Snø som brer seg østover. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, for det meste bris. Fredag snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0603" name="Oslo">
+        <header>
+Oslo
+        </header>
+        <in>
+Onsdag nordlig bris. Stort sett pent vær. Torsdag omslag til sørlig bris. Snø som brer seg østover. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, for det meste bris. Fredag snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0601" name="Østfold">
+        <header>
+Østfold
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling på kysten. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling på kysten. Snø som brer seg østover, regn nær kysten. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder først i perioden. Fredag snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0607" name="Vestfold">
+        <header>
+Vestfold
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling på kysten. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling på kysten. Snø som brer seg østover, regn nær kysten. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder først i perioden. Fredag snø, senere oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0606" name="Buskerud">
+        <header>
+Buskerud
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling i fjellet. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling i fjellet. Snø som brer seg østover. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder. Snø. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0608" name="Telemark">
+        <header>
+Telemark
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling utsatte steder. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling utsatte steder. Snø som brer seg østover, regn nær kysten. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder. Snø. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0609" name="Aust-Agder">
+        <header>
+Aust-Agder
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling utsatte steder. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling utsatte steder. Snø som brer seg østover, regn nær kysten. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder. Snø. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0610" name="Vest-Agder">
+        <header>
+Vest-Agder
+        </header>
+        <in>
+Onsdag nordlig bris, liten kuling utsatte steder. Stort sett pent vær. Torsdag omslag til sørlig bris, etter hvert kuling utsatte steder. Snø som brer seg østover, regn nær kysten. Uendret eller litt lavere temperatur. Fra fredag ventes vind omkring nordøst, kuling utsatte steder. Snø. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0611" name="Rogaland">
+        <header>
+Rogaland
+        </header>
+        <in>
+Onsdag nordlig bris, først på dagen liten kuling på kysten. Stort sett oppholdsvær. Torsdag kortvarig sørøstlig kuling utsatte steder. Tiltykning til snø, senere kan hende regn på kysten. Fortsatt kaldt, men forbigående litt mildere på kysten. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Utrygt for enkelte snøbyger i ytre strøk, ellers oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0612" name="Hordaland">
+        <header>
+Hordaland
+        </header>
+        <in>
+Onsdag nordlig bris, først på dagen frisk bris på kysten. Enkelte snøbyger i nordlige kyststrøk, ellers oppholdsvær. Torsdag kortvarig sørøstlig kuling utsatte steder. Tiltykning til snø, senere kan hende regn på kysten. Fortsatt kaldt, men forbigående litt mildere på kysten. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Utrygt for enkelte snøbyger i ytre strøk, ellers oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0614" name="Sogn og Fjordane">
+        <header>
+Sogn og Fjordane
+        </header>
+        <in>
+Onsdag nordlig bris, først på dagen frisk bris på kysten. Enkelte snøbyger. Torsdag kortvarig sørøstlig kuling utsatte steder. Tiltykning til snø. Fortsatt kaldt. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Utrygt for enkelte snøbyger i ytre strøk, ellers oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0615" name="Møre og Romsdal">
+        <header>
+Møre og Romsdal
+        </header>
+        <in>
+Onsdag nordvestlig bris, først på dagen frisk bris på kysten. Snøbyger. Torsdag sørøstlig kuling utsatte steder. Kan hende snø lengst sør. Ellers stort sett oppholdsvær. Fortsatt kaldt. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Utrygt for enkelte snøbyger i ytre strøk, ellers oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0616" name="Sør-Trøndelag">
+        <header>
+Sør-Trøndelag
+        </header>
+        <in>
+Onsdag nordvestlig bris, først på dagen frisk bris på kysten. Snøbyger. Torsdag sørøstlig kuling utsatte steder. Stort sett oppholdsvær. Fortsatt kaldt. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0617" name="Nord-Trøndelag">
+        <header>
+Nord-Trøndelag
+        </header>
+        <in>
+Onsdag nordvestlig bris, først på dagen frisk bris på kysten. Snøbyger. Torsdag sørøstlig kuling utsatte steder. Stort sett oppholdsvær. Fortsatt kaldt. Fra fredag ventes vind omkring øst, kuling utsatte steder. Opphold og til dels pent vær. Senere bris av skiftende retning. Oppholdsvær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0618" name="Nordland">
+        <header>
+Nordland
+        </header>
+        <in>
+Onsdag skiftende bris, torsdag østlig kuling utsatte steder. Onsdag enkelte snøbyger i ytre strøk, ellers til dels pent vær. Litt kaldere. Fra fredag ventes sør for Vestfjorden østlig kuling utsatte steder, opphold og til dels pent vær. Nord for Vestfjorden skiftende vindforhold, perioder med kuling. Snøbyger vesentlig i ytre strøk, ellers opphold og til dels pent vær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0619" name="Troms">
+        <header>
+Troms
+        </header>
+        <in>
+Onsdag og torsdag overveiende nordlig bris, korte perioder med kuling på kysten. Enkelte snøbyger, vesentlig i ytre strøk. Ellers til dels pent vær. Litt kaldere. Fra fredag ventes skiftende vindforhold, perioder med kuling. Fortsatt snøbyger vesentlig i ytre strøk, ellers opphold og til dels pent vær. Kaldt.
+        </in>
+      </location>
+      <location type="county" id="0620" name="Finnmark">
+        <header>
+Finnmark
+        </header>
+        <in>
+Onsdag og torsdag overveiende nordlig bris, korte perioder med kuling på kysten. Enkelte snøbyger, vesentlig i ytre strøk. Ellers til dels pent vær. Litt kaldere. Fra fredag ventes skiftende vindforhold, perioder med kuling. Fortsatt snøbyger vesentlig i ytre strøk, ellers opphold og til dels pent vær. Kaldt.
+        </in>
+      </location>
+      <location type="district" id="3011" name="Spitsbergen">
+        <header>
+Spitsbergen
+        </header>
+        <in>
+Onsdag og torsdag østlig bris. Stort sett opphold og til dels pent vær. Litt kaldere. Fra fredag ventes vind omkring nordøst, av og til kuling. Lite eller ingen nedbør. Perioder med sol. Kaldt. 
+        </in>
+      </location>
+    </forecasttype>
+  </time>
+</weather>
